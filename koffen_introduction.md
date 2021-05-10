@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sKoffen
+- 👀 I’m interested in Discord bots and Unity games.
+- 🌱 I’m currently learning many things, mainly C# and JS.
+- 💞️ I’m looking to collaborate on nothing, since I want to learn by myself, and also teach myself.
+- 📫 How to reach me: elefansmetin@gmail.com
